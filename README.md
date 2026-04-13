@@ -1,4 +1,6 @@
 # POE-PROG-PART-1-ST10441339-OVI
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/449d20a4-3cc7-4b3d-aa2f-03735109184f" />
+
 Got it — here is a clean, professional README with no emojis or decoration. You can paste this directly into GitHub:
 
 ---
